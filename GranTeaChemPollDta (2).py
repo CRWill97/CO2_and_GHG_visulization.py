@@ -21,7 +21,7 @@ import squarify
 # In[70]:
 
 
-ChemPolldf = pd.read_csv(r"C:\Users\willi\Documents\GranulariTea_Data\chemical_pollution.csv")
+ChemPolldf = pd.read_csv(r"download csv and place it here")
 
 
 # In[71]:
